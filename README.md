@@ -25,9 +25,9 @@ The first option is "remote"- with this option, you will be using a docker conta
 
 If you want to use the remote environment hosted on UCCS servers (YOU MUST BE ON THE VPN TO CONNECT!!!!!):
 
-Student Editor URL: http://editor.{yourUCCSUsername}-4-advse-4300.uccs.devedu.io (for example: http://editor.kwalcott-4-advse-4300.uccs.devedu.io)
+Student Editor URL: http://editor.{yourUCCSUsername}-9-advse-1.uccs.devedu.io (for example: [http://editor.kwalcott-9-advse-1.uccs.devedu.io](http://editor.kwalcott-9-advse-1.uccs.devedu.io/?folder=/root))
 
-Student App URL: http://app.{yourUCCSUsername}-4-advse-4300.uccs.devedu.io
+Student App URL: http://app.{yourUCCSUsername}-9-advse-1.uccs.devedu.io
 
 The username is your UCCS username (i.e. kwalcott) and the password is your student ID number. The Editor link is what you will use for coding. The App link is what you'll use for execution. Please note that you will be deploying your assignments and projects to Heroku as well, so consider the Student App URL as your private testing ground- NOT for submission. 
 
